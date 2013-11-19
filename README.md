@@ -1,3 +1,5 @@
-Prueba 1
-javier meraz
-APS 2
+Prueba 2
+Francisco Javier Meraz Trujillo
+Administración de Proyectos de Software 2
+ISW
+ITSON
